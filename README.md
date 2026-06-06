@@ -2,7 +2,7 @@
 
 **Course:** DSCI 510 Final Project  
 **Author:** Dezhen (Daisy) Zhang  
-**Project type:** Solo class project / data analyst portfolio project
+**Project type:** class project / data analyst portfolio project
 
 ## Overview
 
